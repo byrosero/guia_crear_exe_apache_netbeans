@@ -12,6 +12,8 @@ Launch4j (versión independiente o instalador)
 Antes de crear el archivo de preparación del proyecto debemos configurar algo en la parte de files en el archivo build.xml con el siguiente codigo antes de la ultima etiqueta del documento
 
 code:
+https://drive.google.com/file/d/1lCib1k2gtUbJfxX4Kr3ninU_jFWKBEgX/edit
+
 
 <target name="package-for-store" depends="jar">
     <property name="store.jar.name" value="NombreProyecto"/> <!-- Nombre de tu proyecto -->
